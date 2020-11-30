@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Admin\Desktop\ltm\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+262520543.index
